@@ -20,7 +20,7 @@ We're excited to announce the release of AstroPaper v3, packed with new features
 
 ### Astro v3 Integration
 
-<div id='collection-component-1701596210124'></div>
+<div id='collection-component-1701596210121'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -49,7 +49,7 @@ We're excited to announce the release of AstroPaper v3, packed with new features
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('collection', {
         id: '465839816992',
-        node: document.getElementById('collection-component-1701596210124'),
+        node: document.getElementById('collection-component-1701596210121'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
