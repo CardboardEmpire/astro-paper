@@ -16,7 +16,7 @@ We're excited to announce the release of AstroPaper v3, packed with new features
 
 ## Table of contents
 
-## Features & Changes
+## Features & Changes 
 
 ### Astro v3 Integration
 
