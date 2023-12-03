@@ -27,6 +27,7 @@
     "satori": "^0.10.8",
     "tailwindcss": "^3.3.3",
     "typescript": "^5.2.2"
+    "tinacms": "^1.5.22"
   },
   "devDependencies": {
     "@astrojs/react": "^3.0.2",
