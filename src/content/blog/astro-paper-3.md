@@ -20,7 +20,7 @@ We're excited to announce the release of AstroPaper v3, packed with new features
 
 ### Astro v3 Integration
 
-<div id='collection-component-1701595928412'></div>
+<div id='collection-component-1701596210124'></div>
 <script type="text/javascript">
 /*<![CDATA[*/
 (function () {
@@ -49,29 +49,17 @@ We're excited to announce the release of AstroPaper v3, packed with new features
     ShopifyBuy.UI.onReady(client).then(function (ui) {
       ui.createComponent('collection', {
         id: '465839816992',
-        node: document.getElementById('collection-component-1701595928412'),
+        node: document.getElementById('collection-component-1701596210124'),
         moneyFormat: '%24%7B%7Bamount%7D%7D',
         options: {
   "product": {
     "styles": {
       "product": {
         "@media (min-width: 601px)": {
-          "max-width": "calc(33.33333% - 30px)",
-          "margin-left": "30px",
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
           "margin-bottom": "50px",
-          "width": "calc(33.33333% - 30px)"
-        },
-        "img": {
-          "height": "calc(100% - 15px)",
-          "position": "absolute",
-          "left": "0",
-          "right": "0",
-          "top": "0"
-        },
-        "imgWrapper": {
-          "padding-top": "calc(75% + 15px)",
-          "position": "relative",
-          "height": "0"
+          "width": "calc(25% - 20px)"
         }
       },
       "title": {
@@ -86,7 +74,7 @@ We're excited to announce the release of AstroPaper v3, packed with new features
     "styles": {
       "products": {
         "@media (min-width: 601px)": {
-          "margin-left": "-30px"
+          "margin-left": "-20px"
         }
       }
     }
